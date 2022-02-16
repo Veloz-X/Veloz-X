@@ -3,9 +3,20 @@
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
+💡 &nbsp;Trabajo desarrolando proyectos profecionales en Web, Mobile, Windows.\
 🎓 &nbsp;Actualmente estoy estudiando Telecomunicaiones en la Universidad de Politécnica Saleciana(UPS).\
 ✍️ &nbsp;En mi tiempo libre, me dedico al la lectura y a aprender sobre temas relacionados al blockchain y criptomonedas.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a joffreandres11@gmail.com! Trataré de responder tan pronto como pueda.
+
+### 🛠 &nbsp;Framework o Lenguaje mas usado
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
