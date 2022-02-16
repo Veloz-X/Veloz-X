@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estoy estudiando Mecatrónica en la Universidad de Escuela Superior Politécnica del Litoral (ESPOL).\
+🎓 &nbsp;Actualmente estoy estudiando Telecomunicaiones en la Universidad de Politécnica Saleciana(UPS).\
 ✍️ &nbsp;En mi tiempo libre, me dedico al la lectura y a aprender sobre temas relacionados al blockchain y criptomonedas.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a joel.edu.v@gmail.com! Trataré de responder tan pronto como pueda.
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a joffreandres11@gmail.com! Trataré de responder tan pronto como pueda.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
