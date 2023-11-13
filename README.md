@@ -6,7 +6,7 @@
 💡 &nbsp;Trabajo desarrolando proyectos profecionales en Web, Mobile, Windows.\
 🎓 &nbsp;Actualmente estoy estudiando Telecomunicaiones en la Universidad de Politécnica Saleciana(UPS).\
 ✍️ &nbsp;En mi tiempo libre, me dedico al la lectura y a aprender sobre temas relacionados al blockchain y criptomonedas.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a joffreandres11@gmail.com! Trataré de responder tan pronto como pueda.
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a @gmail.com! Trataré de responder tan pronto como pueda.
 
 ### 🛠 &nbsp;Framework o Lenguaje mas usado
 
